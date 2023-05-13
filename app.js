@@ -42,6 +42,7 @@ function search(){
 console.log(data)})
   .catch(error => console.error('Error:', error));
 
+  //AMORGOS
 
 }
 //Gör att top section försvinner när 'enter' trycks.
